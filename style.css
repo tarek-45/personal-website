@@ -3,11 +3,62 @@ body{font-family: 'Poppins', sans-serif;
     }
     h1{ font-size: 50px; }
     span{
-        color: lightsalmon;
+        color: salmon;
+    }
+    .header{
+        background-image: url(images/header-bg.png);
+        margin-bottom: 50px;
     }
     .half-width {
         margin-left: 5%;
         padding-left: 2%; 
-        width: 40%;
+        width: 25.33%;
         float: left;
+        
+    
     }
+    .half-width img{
+        width: 100%;
+    }
+    button {
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            color: white;
+            font-weight: 700;
+            background-image: linear-gradient(45deg, lightSalmon, tomato);
+        
+    }
+    section{
+        height: 500px;
+        padding-bottom: 150px;
+    }
+    h2{
+        text-align: center;
+    }
+    .new-sec{
+        height: auto;
+    }
+    .speech{
+        color:dimgray ;
+        text-align: center;
+    }
+    h3{
+        text-align: center;
+    }
+    .last-part{
+        margin-top: 50px;
+        background-image: linear-gradient(90deg, lightSalmon, tomato);
+        width: auto;
+    }
+    #text-color{
+        color: white;
+    }
+
+
+    
+    
+    
+    
+
+    
